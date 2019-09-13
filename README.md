@@ -1,7 +1,7 @@
 # xabber
 Root project for all Xabber related software projects
 
-## Server software
+## Xabber Server
 
 [Xabber Server](https://github.com/redsolution/xabber-server/) - Xabber Server: an advanced XMPP server, with reliable message delivery, message editing and retraction, group chats, active session management and fast client synchronization.
 
@@ -9,7 +9,7 @@ Root project for all Xabber related software projects
 
 [Xabber WebSocket server](https://github.com/redsolution/xabber-websocket/) - Standalone WebSocket connection manager needed to connect web clients to multiple different XMPP servers
 
-## Clients
+## Xabber Clients
 
 [Xabber for Android](https://github.com/redsolution/xabber-android/) - the most popular XMPP client for Android
 
